@@ -1,7 +1,7 @@
 {
   "name": "khlee Web App",
   "short_name": "khleeweb",
-  "icons":{
+  "icons":[{
         "src": "hd_small.png",
         "sizes": "64x64"
       }, {
