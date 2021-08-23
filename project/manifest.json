@@ -3,11 +3,12 @@
   "short_name": "khleeweb",
   "icons":[{
         "src": "hd_small.png",
+        "type": "image/png",
         "sizes": "64x64"
       }, {
         "src": "hd_hi.png",
-        "sizes": "128x128",
-        "density": 2
+        "type": "image/png",
+        "sizes": "128x128"
       }],
   "scope": "/project",
   "start_url": "/project/index.html",
