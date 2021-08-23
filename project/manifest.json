@@ -1,17 +1,31 @@
 {
-  "name": "khlee Web App",
-  "short_name": "khleeweb",
-  "icons":[{
-        "src": "hd_small.png",
-        "type": "image/png",
-        "sizes": "64x64"
-      }, {
-        "src": "hd_hi.png",
-        "type": "image/png",
-        "sizes": "128x128"
-      }],
-  "scope": "/project",
-  "start_url": "/project/index.html",
-  "display": "fullscreen",
-  "orientation": "landscape"
+    "theme_color": "#f69435",
+    "background_color": "#f69435",
+    "display": "fullscreen",
+    "scope": "/project",
+    "start_url": "/project/index.html",
+    "name": "khleeweb",
+    "short_name": "khlee",
+    "icons": [
+        {
+            "src": "/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
 }
