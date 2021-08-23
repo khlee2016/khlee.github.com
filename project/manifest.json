@@ -1,0 +1,16 @@
+{
+  "name": "khlee Web App",
+  "short_name": "khleeweb",
+  "icons":{
+        "src": "hd_small.png",
+        "sizes": "64x64"
+      }, {
+        "src": "hd_hi.png",
+        "sizes": "128x128",
+        "density": 2
+      }],
+  "scope": "/project",
+  "start_url": "/project/index.html",
+  "display": "fullscreen",
+  "orientation": "landscape"
+}
